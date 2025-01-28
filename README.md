@@ -1,0 +1,2 @@
+Al descargar el proyecto y abrirlo en NetBeans, simplemente presiona el botón Run para ejecutar el juego. Este se abrirá directamente y podrás jugar sin necesidad de configuraciones adicionales.
+Después, solo tendrás que mover el cubo utilizando las teclas de flecha Izquierda y Derecha con el objetivo de capturar las gotas. Las gotas capturadas se irán mostrando en la parte superior central de la pantalla.
